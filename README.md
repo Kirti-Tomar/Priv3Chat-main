@@ -82,8 +82,8 @@ const searchUser = async (username) => {
 ## 📖 Installation
 1. **Clone the Repository:**
 ```sh
-git clone https://github.com/your-repo.git
-cd your-repo
+git clone https://github.com/ubosachin/Priv3Chat-main.git
+cd Priv3Chat-main
 ```
 2. **Install Dependencies:**
 ```sh
