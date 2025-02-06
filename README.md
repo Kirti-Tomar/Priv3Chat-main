@@ -3,6 +3,8 @@
 ## 🚀 Overview
 This project enables **decentralized user discovery and messaging** using **Web3 smart contracts and zkFHE** for encryption. Users can **register usernames**, **search for other users**, and **send encrypted messages** securely.
 
+⚠️ **Note:** This is just a prototype.
+
 ---
 
 ## 🔍 Features
