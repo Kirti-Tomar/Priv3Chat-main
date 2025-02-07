@@ -77,7 +77,7 @@ export default function Footer() {
             <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition-all hover:scale-110">
               <FaLinkedin />
             </a>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-300 transition-all hover:scale-110">
+            <a href="https://github.com/ubosachin" target="_blank" rel="noopener noreferrer" className="hover:text-gray-300 transition-all hover:scale-110">
               <FaGithub />
             </a>
           </div>
